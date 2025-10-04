@@ -1,0 +1,20 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# MATLAB
+*.asv
+*.mex*
+*.slxc
+*.slx.autosave
+*.mdl.autosave
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
